@@ -1,0 +1,33 @@
+Sergio David Zea Cisneros 
+0907-25-12821
+
+RESUMEN VIDEO DE GIT Y GITHUB
+El video muestra cómo empezar con Git desde cero. Enseña primero qué Git es una herramienta que guarda versiones de tu proyecto, cómo crear un proyecto nuevo con Git, cómo guardar los cambios paso a paso, y cómo conectarlo con una plataforma en linea como GitHub para compartir tus proyectos con otras personas.
+Explica los comandos básicos: crear repositorios, ver el estado de tu proyecto, guardar cambios, subirlos a la nube y cómo manejar diferentes “líneas” de trabajo o ramas.
+
+RESPUESTA DE LAS PREGUNTAS
+
+1. ¿Qué es GIT?
+Git es una herramienta que guarda el historial de todos los cambios en un proyecto. Es como un ctrl + z agran escala y preciso, te permite volver a versiones anteriores, ver qué cambiaste y no perder trabajo.
+
+2. ¿Cuáles son los comandos más importantes y para qué sirven?
+git init — Empieza un repositorio de Git en tu carpeta.
+git clone [url] — Copia un proyecto que ya está en internet.
+git status — Es una consulta del estado actual del proyecto.
+git add [archivo] — Agrega archivos a la lista para guardar y "trackear".
+git commit -m "mensaje" — Guarda los cambios con un mensaje.
+git pull — Baja los cambios nuevos de una copia en línea.
+git push — Sube tus cambios a la copia en línea.
+git branch — Muestra o crea ramas o línea de trabajo.
+git checkout — Cambia de rama o versión del ptoyecto.
+
+3. ¿Cuál es la diferencia entre Git y GitHub?
+GIT es el programa que guarda el historial de los archivos de manera local, es decir en la computadora, por otro lado, GitHub es un sitio en Internet donde se puede poner ese historial en la nube, compartirlo, colaborar con otros y ver el proyecto desde una web.
+
+4. Enumere los comandos para subir cambios a un repositorio
+	1) git add
+	2) git commit -m
+	3) git push
+
+5. ¿Qué es una branch?
+Una branch es como una versión paralela del proyecto para probar cosas nuevas. Permite trabajar en nuevas ideas sin afectar el proyecto principal. Al finalizar se puede mezclar esa rama o versión con la principal para manetener los cambios y que formen parte del proyecto final.
